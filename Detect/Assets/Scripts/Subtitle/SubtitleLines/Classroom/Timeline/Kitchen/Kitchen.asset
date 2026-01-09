@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Kitchen
   m_EditorClassIdentifier: 
   lines:
-  - {fileID: 11400000, guid: 64bb3b30c56ee18418b71ba47c7c560a, type: 2}
+  - {fileID: 11400000, guid: abc82d99f0b26fb46963430870a0814e, type: 2}
